@@ -1,0 +1,471 @@
+{
+  "main": {
+    "id": "14cb4370c2fd043a",
+    "type": "split",
+    "ophidian:layout-settings": {
+      "pane-relief:sliding-panes": {
+        "active": true
+      }
+    },
+    "children": [
+      {
+        "id": "15169f618cc95054",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cb99ec1102450e6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Contents",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Distributed/Contents.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Contents\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Introduction to Hadoop and MapReduce",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Distributed/slides/Introduction to Hadoop and MapReduce.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Introduction to Hadoop and MapReduce\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hadoop architecture and ecosystem",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Distributed/slides/Hadoop architecture and ecosystem.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"Hadoop architecture and ecosystem\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Pasted image 20250315220935",
+                  "icon": "lucide-image",
+                  "state": "{\"type\":\"image\",\"state\":{\"file\":\"crafting-tech/pyramid/Pasted image 20250315220935.png\"},\"icon\":\"lucide-image\",\"title\":\"Pasted image 20250315220935\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "未命名",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"crafting-tech/pyramid/未命名.canvas\",\"viewState\":{\"x\":-114,\"y\":-18.5,\"zoom\":-1.1841442488687242}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"未命名\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "05.Deduction and Induction-the difference",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"crafting-tech/pyramid/05.Deduction and Induction-the difference.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"05.Deduction and Induction-the difference\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "03. HOW TO BUILD",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"crafting-tech/pyramid/03. HOW TO BUILD.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"03. HOW TO BUILD\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "02. THE SUBSTRUCTURES WITHIN THE PYRAMMID",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"crafting-tech/pyramid/02. THE SUBSTRUCTURES WITHIN THE PYRAMMID.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"02. THE SUBSTRUCTURES WITHIN THE PYRAMMID\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "01. Why a pyramid structure",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"crafting-tech/pyramid/01. Why a pyramid structure.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"01. Why a pyramid structure\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "presentation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"presentation.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"presentation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "point of view a",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"point of view a.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"point of view a\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "presentation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"presentation.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"presentation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":12},\"to\":{\"line\":4,\"ch\":12}}}"
+                },
+                {
+                  "title": "2025-04-09",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2025-04-09.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"2025-04-09\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "未命名 1",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"未命名 1.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"未命名 1\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "关系图谱",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"关系图谱\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "未命名",
+                  "icon": "lucide-layout-dashboard",
+                  "state": "{\"type\":\"canvas\",\"state\":{\"file\":\"未命名.canvas\",\"viewState\":{\"x\":0,\"y\":0,\"zoom\":0}},\"icon\":\"lucide-layout-dashboard\",\"title\":\"未命名\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "关系图谱",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"关系图谱\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "presentation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"presentation.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"presentation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":5},\"to\":{\"line\":3,\"ch\":5}}}"
+                },
+                {
+                  "title": "point of view a",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"point of view a.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"point of view a\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "presentation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"presentation.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"presentation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
+                },
+                {
+                  "title": "military",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"crafting-tech/military.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"military\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":21},\"to\":{\"line\":4,\"ch\":25}}}"
+                },
+                {
+                  "title": "4. Data Ethics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Data Ethics/4. Data Ethics.md\",\"mode\":\"source\",\"source\":false},\"icon\":\"lucide-file\",\"title\":\"4. Data Ethics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":23},\"to\":{\"line\":4,\"ch\":23}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "234ee3faeea46b29",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef70e3828a497299",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c0ac4e9eefe9e7f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b3a28ad8ecab32d3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "99c52cf6de48bbd5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "95bd71675fb673e1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "crafting-tech/The  New Business Road Test/notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81bd40a3b83224fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbc993b0462edb51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00aea9518294ae25",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "crafting-tech/military.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "military 的反向链接列表"
+            }
+          },
+          {
+            "id": "8dacaf391e7b28e6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "crafting-tech/military.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "military 的出链列表"
+            }
+          },
+          {
+            "id": "8b271de960b46fa8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "6477d034b2e92898",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "point of view a.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "point of view a 的大纲"
+            }
+          },
+          {
+            "id": "2f734977e6b16257",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "笔记复习序列"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-spaced-repetition:复习卡片": false
+    }
+  },
+  "active": "1cb99ec1102450e6",
+  "ophidian:layout-settings": {
+    "pane-relief:focus-lock": true
+  },
+  "lastOpenFiles": [
+    "Distributed/Hadoop",
+    "Distributed/未命名文件夹",
+    "Distributed/Spark",
+    "Maths/Gasparini",
+    "Maths/未命名文件夹",
+    "Maths/Vaccarino",
+    "Maths",
+    "未命名文件夹",
+    "Ethics",
+    "Distributed",
+    "MLDL",
+    "Distributed/Contents.md",
+    "Distributed/how - to -.md",
+    "Distributed/slides/Introduction to Hadoop and MapReduce.md",
+    "Distributed/slides/Hadoop architecture and ecosystem.md",
+    "crafting-tech/pyramid/Pasted image 20250315220935.png",
+    "crafting-tech/pyramid/未命名.canvas",
+    "crafting-tech/pyramid/05.Deduction and Induction-the difference.md",
+    "crafting-tech/pyramid/03. HOW TO BUILD.md",
+    "crafting-tech/pyramid/02. THE SUBSTRUCTURES WITHIN THE PYRAMMID.md",
+    "crafting-tech/pyramid/01. Why a pyramid structure.md",
+    "presentation.md",
+    "point of view a.md",
+    "2025-04-09.md",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名 1.md",
+    "crafting-tech/military.md",
+    "决策与行动.md",
+    "未命名.md",
+    "().md",
+    "Data Ethics/4. Data Ethics.md",
+    "da.md",
+    "crafting-tech/presenting to win.md",
+    "crafting-tech/effective reading.md",
+    "crafting-tech/assignments.md",
+    "丘成桐.md",
+    "dairy/了解我自己.md",
+    "Pasted image 20250324132439.png",
+    "Pasted image 20250320172826.png",
+    "Pasted image 20250324132246.png",
+    "MLDL/slides/10.DL-Architectures-Visualizations.md",
+    "crafting-tech/The  New Business Road Test/Summaries. Chapter 1.13.14.16.md",
+    "Distributed/未命名.canvas"
+  ]
+}
