@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15169f618cc95054",
+        "id": "b013c6892213d615",
         "type": "tabs",
         "children": [
           {
-            "id": "1cb99ec1102450e6",
+            "id": "66d7340c7064d53a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,12 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed/Spark/exercise.md",
+                "file": "diary/thoughts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "exercise"
+              "title": "thoughts"
             }
           }
         ],
@@ -138,7 +138,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "81bd40a3b83224fd",
@@ -323,8 +324,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cb99ec1102450e6",
+  "active": "66d7340c7064d53a",
   "lastOpenFiles": [
+    "Distributed/Spark/learning spark - lightning.md",
+    "diary/thoughts.md",
+    "diary",
+    "Distributed/Spark/Introduction.md",
     "Distributed/Spark/exercise.md",
     "README.md",
     "Distributed/Hadoop",
@@ -336,7 +341,6 @@
     "Maths",
     "未命名文件夹",
     "Ethics",
-    "Distributed",
     "Distributed/Contents.md",
     "Distributed/how - to -.md",
     "Distributed/slides/Introduction to Hadoop and MapReduce.md",
@@ -355,7 +359,6 @@
     "未命名 1.md",
     "crafting-tech/military.md",
     "决策与行动.md",
-    "未命名.md",
     "().md",
     "Data Ethics/4. Data Ethics.md",
     "da.md",
@@ -363,11 +366,9 @@
     "crafting-tech/effective reading.md",
     "crafting-tech/assignments.md",
     "丘成桐.md",
-    "dairy/了解我自己.md",
     "Pasted image 20250324132439.png",
     "Pasted image 20250320172826.png",
     "Pasted image 20250324132246.png",
-    "MLDL/slides/10.DL-Architectures-Visualizations.md",
     "Distributed/未命名.canvas"
   ]
 }
